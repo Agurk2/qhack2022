@@ -37,7 +37,7 @@ By computing the bonding energy for the ground state toy protease, we can develo
 This [research paper](http://vergil.chemistry.gatech.edu/notes/hf-intro/hf-intro.pdf) goes further in depth into the Hartree Fock method. 
 
 ### Our Solution: 
-![image](graphcovidprotease.PNGg)
+graphcovidprotease.PNG
 
 ### Presentation: 
 
