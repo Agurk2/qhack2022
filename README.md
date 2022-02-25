@@ -18,9 +18,11 @@ _National Center for Biotechnology Information. "PubChem Compound Summary for CI
 
 Therefore, by blocking the protease's receptors, we effectively halt the virus's ability to spread within the host. This can be done by reacting the protease with a protease inhibitor in order to stop this chemical process from occuring.
 
-Current quantum hardware is not powerful enough to simulate whole macromolecules. However, as quantum computers get more and more powerful, so too will the ability to simulate molecular interactions. For this project, we simplified the glutamine molecule to create a so-called toy protease, in order to prove the effectiveness of quantum computers. 
+Current quantum hardware is not powerful enough to simulate whole macromolecules. However, as quantum computers get more and more powerful, so too will the ability to simulate molecular interactions. Glutamine molecule is the key protease in SARS-Cov-2. To simulate the whole molecule, 40+ qubits and several weeks of computation time would be required -- unfeasible with current technology.
 
-The glutamine molecule is simplified to methanamine (see image).
+However, by reducing the glutamine to NH₂C, we are able to simulate the binding of glutamine with a protease inhibitor, effectively achieving a speedup in the development of new SARS-Cov-2 vaccines. For this project, we simplified the glutamine molecule to create a so-called toy protease, in order to prove the effectiveness of quantum computers. 
+
+The glutamine molecule is simplified to methanamine (see image). 
 
 ![image](https://user-images.githubusercontent.com/86123205/155741903-53ddd53c-ff82-4bfb-8814-378b1536fde1.png)
 
