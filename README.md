@@ -49,7 +49,7 @@ https://docs.google.com/presentation/d/1RUTgP6EQV1CDNaoC5YO_VSJL7UFLT_LaiENJxCoT
 Young Scientist Challenge  
 Science Challenge  
 Simulation Challenge  
-Quantum Entrepreneur Challenge (slideshow still required)  
+Quantum Entrepreneur Challenge   
 Quantum Chemistry Challenge  
 QAOA Challenge  
 Hybrid Algorithms Challenge
