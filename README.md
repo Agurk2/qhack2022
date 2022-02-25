@@ -6,6 +6,10 @@ This project has been developed during the QHack 2022 open hackathon.
 
 Quionizers
 
+### Team Members: 
+
+Oliver, Shivane, Somrishi, Agni
+
 ### Project Description: 
 
 This project computes the binding energies of glutamine in order to facilitate speedups in the development of novel Civid-19 vaccines. A protease is an enzyme that works as a "hammer", breaking down particles into smaller amino acids and polypeptides. These amino acids and polypeptides then form long chains, allowing the virus to spread within the host. 
