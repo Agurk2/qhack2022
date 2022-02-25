@@ -20,11 +20,11 @@ One major way we were able to simulate the molecules was by using the Hartree-Fo
 
 ### Which challenges/prizes would you like to submit your project for?
 
-Young Scientist
-Science Challenge
-Simulation Challenge
-Quantum Entrepreneur Challenge (slideshow still required)
-Quantum Chemistry Challenge
-QAOA Challenge
-Hybrid Algorithms Challenge
+Young Scientist  
+Science Challenge  
+Simulation Challenge  
+Quantum Entrepreneur Challenge (slideshow still required)  
+Quantum Chemistry Challenge  
+QAOA Challenge  
+Hybrid Algorithms Challenge  
 
