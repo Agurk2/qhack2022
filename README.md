@@ -32,9 +32,9 @@ By computing the bonding energy for the ground state toy protease, we can develo
 
 This [research paper](http://vergil.chemistry.gatech.edu/notes/hf-intro/hf-intro.pdf) goes further in depth into the Hartree Fock method. 
 
-### Presentation: 
+### Presentation with Business Pitch Included: 
 
-*A hyperlink to an explanatory presentation of your team’s hackathon project in a non-technical form (e.g., video, blog post, jupyter notebook, website, slideshow, etc.).*
+https://docs.google.com/presentation/d/1jXdZgyL0UMFsaJY3CagPcJ-0RO5mTW9KV9YCDDhtTeg/edit#slide=id.p 
 
 ### Source code: 
 
