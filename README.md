@@ -59,3 +59,4 @@ QAOA Challenge
 Hybrid Algorithms Challenge
 IBM Qiskit Challenge
 
+We wanted to thank QHACK and its sponsors for organizing such a wonderful event. We enjoyed the guest speakers, workshops, guidance and much more. We hope that we can have the opportunity to continue building on our innovations.
