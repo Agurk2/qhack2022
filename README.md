@@ -59,8 +59,7 @@ Young Scientist Challenge
 Science Challenge  
 Simulation Challenge  
 Quantum Entrepreneur Challenge   
-Quantum Chemistry Challenge  
-QAOA Challenge  
+Quantum Chemistry Challenge   
 Hybrid Algorithms Challenge
 IBM Qiskit Challenge
 
