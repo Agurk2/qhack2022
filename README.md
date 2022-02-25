@@ -42,7 +42,7 @@ https://docs.google.com/presentation/d/1RUTgP6EQV1CDNaoC5YO_VSJL7UFLT_LaiENJxCoT
 
 ### Source code: 
 
-[https://github.com/Agurk2/qhack2022](url)
+[https://github.com/Agurk2/qhack2022/blob/main/main.ipynb](url)
 
 ### Which challenges/prizes would you like to submit your project for?
 
