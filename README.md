@@ -38,7 +38,7 @@ This [research paper](http://vergil.chemistry.gatech.edu/notes/hf-intro/hf-intro
 
 ### Our Solution: 
 ![solution](graphcovidprotease.PNG)
-
+![solution](quantumhackathon2.PNG)
 One major way we were able to simulate the molecules was by using the Hartree-Fock approximation and Variational Quantum Eigensolver hybrid algorithm. By utilizing Hartree-Fock and VQE, we have a strong indication that our results are correct. Thus, our project has revealed key information vital in the development of novel vaccines to combat mutations. We are able to prove that quantum computing can be used to help enhance drug development and the vaccine process. 
 
 ### Presentation: 
