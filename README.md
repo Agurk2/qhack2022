@@ -1,6 +1,6 @@
 # Solving binding energies for the ground state protease in SARS-Cov-2
 
-This project has been developed during the QHack 2022 open hackathon.
+This project has been developed during the QHack 2022 open hackathon. Motivated my the recent Covid-19 pandemic, we have created this project to help speed up vaccine and drug development of furture and current epidemics and pathogens. We truly hope that this project will simulate the true power of quantum computing and change the world for the better.
 
 ### Team Name: 
 
