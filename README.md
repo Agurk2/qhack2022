@@ -12,9 +12,9 @@ Oliver, Shivane, Somrishi, Agni
 
 ### Project Description: 
 
-This project computes the binding energies of glutamine in order to facilitate speedups in the development of novel Civid-19 vaccines. A protease is an enzyme that works as a "hammer", breaking down particles into smaller amino acids and polypeptides. These amino acids and polypeptides then form long chains, allowing the virus to spread within the host. 
+This project computes the binding energies of glutamine in order to facilitate speedups in the development of novel COVID-19 vaccines. A protease is an enzyme that works as a "hammer", breaking down particles into smaller amino acids and polypeptides. These amino acids and polypeptides then form long chains, allowing the virus to spread within the host. 
 
-Covid-19 contains a protease called glutamine (see image).
+COVID-19 contains a protease called glutamine (see image).
 
 ![image](https://user-images.githubusercontent.com/86123205/155739807-1b60def5-765b-4530-af4a-6c538dcc5419.png)
 
