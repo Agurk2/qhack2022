@@ -40,11 +40,12 @@ This [research paper](http://vergil.chemistry.gatech.edu/notes/hf-intro/hf-intro
 
 ### Which challenges/prizes would you like to submit your project for?
 
-Young Scientist  
+Young Scientist Challenge  
 Science Challenge  
 Simulation Challenge  
 Quantum Entrepreneur Challenge (slideshow still required)  
 Quantum Chemistry Challenge  
 QAOA Challenge  
-Hybrid Algorithms Challenge  
+Hybrid Algorithms Challenge
+IBM Qiskit Challenge
 
